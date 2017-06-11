@@ -6,5 +6,4 @@ Der frontal angebrachte Ultraschallsensor in kombination mit der high end Softwa
 Die Handyhülle verbirgt das eigentliche was das project möglich macht.Unter den 3 Plexiglass Schichten befindet sich ein Arduino nano micro computer,ein 6000 mAh akku, und ein Ultraschallsensor mit 5 Metern effektiver Reichweite. Als warnsystem dient ein kleines rotes LED licht dass die blink frequenz erhöht je näher man sich dem Objekt nähert. 
 
 ![Smombie2Go hardware](https://raw.githubusercontent.com/Jugendhackt/Smombie2Go/master/JHHH-Smombie2go%20Schaltung.PNG)
- 
 
