@@ -1,9 +1,13 @@
 # Smombie2Go
-Smombie2Go ist eine innovative Handyhülle,die viele Unfälle vermeidbar machen wird,durch dieses Frühwarnungs system kannst du deine Handy sucht so gar draussen erweitern ohne irgendwelchen gefahren zu begegnen wie Strassenlaternen oder Müllkontainern.
-Der frontal angebrachte Ultraschallsensor in kombination mit der high end Software ermöglicht die  eben genannte Funktion.
+
+Smombie2Go was initially developed at the "Jugend hackt 2017" Hackathon in Hamburg.
+
+It is an innovative smartphone case, that allows you to extend your addicition without encounter any problems like street lights or othr persons.
+
+The frontal ultrasonic sensor in addition with our software will help you.
 
 ## Hardware
-Die Handyhülle verbirgt das eigentliche was das project möglich macht.Unter den 3 Plexiglass Schichten befindet sich ein Arduino nano micro computer,ein 6000 mAh akku, und ein Ultraschallsensor mit 5 Metern effektiver Reichweite. Als warnsystem dient ein kleines rotes LED licht dass die blink frequenz erhöht je näher man sich dem Objekt nähert. 
+Within the case you'll find an Arduino Nano and a 6000 mAh Akku, as well as a combined stepup- and stepdown converter.
+The above red LED will notify you with its blinking in relation to the distance of the object
 
 ![Smombie2Go hardware](https://raw.githubusercontent.com/Jugendhackt/Smombie2Go/master/JHHH-Smombie2go%20Schaltung.PNG)
-
