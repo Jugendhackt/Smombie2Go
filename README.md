@@ -6,6 +6,9 @@ It is an innovative smartphone case, that allows you to extend your addicition w
 
 The frontal ultrasonic sensor in addition with our software will help you.
 
+## Software
+Our Arduino code emits a very short signal to the sensor causing it sending a short wave. Then, the time until the wave comes back will be measured
+
 ## Hardware
 Within the case you'll find an Arduino Nano and a 6000 mAh Akku, as well as a combined stepup- and stepdown converter.
 The above red LED will notify you with its blinking in relation to the distance of the object
